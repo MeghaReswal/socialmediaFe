@@ -31,7 +31,6 @@ const Register = () => {
               </div>
               <button type="submit">REGISTER</button>
               <div className="links">
-                <Link  to="/login">Login here</Link>
               <Link  to="/">Go to Home</Link>
               </div>
              

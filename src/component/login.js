@@ -6,7 +6,7 @@ const Login = () => {
       <section>
         <div className="container navigation">
           <div className="login">
-            <Link to="/login">
+            <Link to="/">
               <button type="button" class="btn btn-secondary ">
                 Login
               </button>
